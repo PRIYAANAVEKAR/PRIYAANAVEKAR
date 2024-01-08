@@ -1,4 +1,4 @@
-[![MasterHead] (https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress%2Cformat&h=394&w=700&fit=min&s=614b3c4ad66460fd916a25d9b42ce697)](https://PRIYAANAVEKAR.io)
+[![MasterHead](https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress%2Cformat&h=394&w=700&fit=min&s=614b3c4ad66460fd916a25d9b42ce697)](https://PRIYAANAVEKAR.io)
 <h1 align="center">Hello 👋, I'm Priya Anavekar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right"alt ="Tech-Kid" width="400" src =https://www.sliderrevolution.com/wp-content/uploads/2022/01/creative-hero.gif
