@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaanavekar&label=Profile%20views&color=0e75b6&style=flat" alt="priyaanavekar" /> </p>
 
-- 🔭 I’m currently **FULL-STACK DEVELOPER**
+- 🔭 I’m currently **AI AND AUTOMATION DEVELOPER**
 
-- 🌱 I’m currently learning **ASP.NET C#**
+- 🌱 I’m currently learning **ASP.NET C#  GEN AI PYTHON **
   
 - ⚡  I’m currently **LEARNING RUST**
 
